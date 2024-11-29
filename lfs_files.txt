@@ -1,0 +1,4 @@
+C:\Users\WINDOWS\Desktop\Proyecto vrps - Unity\Realidad Virtual para Pruebas Psicosensometricas\Library\ArtifactDB (Sin extensión)
+C:\Users\WINDOWS\Desktop\Proyecto vrps - Unity\Realidad Virtual para Pruebas Psicosensometricas\Library\SourceAssetDB (Sin extensión)
+C:\Users\WINDOWS\Desktop\Proyecto vrps - Unity\Realidad Virtual para Pruebas Psicosensometricas\Library\PackageCache\com.unity.burst@1.8.8\.Runtime\libburst-llvm-15.dylib (.dylib)
+C:\Users\WINDOWS\Desktop\Proyecto vrps - Unity\Realidad Virtual para Pruebas Psicosensometricas\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS (.ress)
