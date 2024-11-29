@@ -1,6 +1,5 @@
-# Archivos sin extensión (reglas específicas por ruta)
-Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
-Library/SourceAssetDB filter=lfs diff=lfs merge=lfs -text
-# Archivos con extensiones específicas
-*.dylib filter=lfs diff=lfs merge=lfs -text
-*.ress filter=lfs diff=lfs merge=lfs -text
+# Rastrear archivos .tga con Git LFS
+Assets/Fantastic\ City\ Generator/Textures/*.tga filter=lfs diff=lfs merge=lfs -text
+
+# Rastrear archivos .fbx con Git LFS
+Assets/HP\ Pavilion\ Laptop\ blend\ format/*.fbx filter=lfs diff=lfs merge=lfs -text
