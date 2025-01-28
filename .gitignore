@@ -25,6 +25,7 @@ sysinfo.txt
 
 # vscode
 *.vscode
+*.vs
 
 # Archive
 lfs_files.txt
