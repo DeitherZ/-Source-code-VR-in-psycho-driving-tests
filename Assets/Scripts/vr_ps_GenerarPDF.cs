@@ -106,6 +106,11 @@ public class vr_ps_GenerarPDF : MonoBehaviour
 
     private bool CrearPDF()
     {
+        if (sysio.File.Exists(sysio.Path.Combine(directory, "GeneratorPDF")))
+        {
+            sysio.Directory.CreateDirectory(sysio.Path.Combine(directory, "GeneratorPDF"));
+        }
+
         if (!sysio.File.Exists(sysio.Path.Combine(directory, "dataUser.temp")))
         {
             return false;
